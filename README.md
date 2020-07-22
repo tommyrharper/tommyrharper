@@ -11,10 +11,10 @@
 </div>
 
 <div align="center">
-<a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/JavaScript-1197%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/HTML-1122%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/CSS-1113%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/Ruby-677%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/JavaScript-1247%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/HTML-1172%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/CSS-1163%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/Ruby-662%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/SQL-57%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/tommyrharper"><img src="https://img.shields.io/badge/Python-40%20commits-blueviolet.svg" alt=""></a>
 </div>
