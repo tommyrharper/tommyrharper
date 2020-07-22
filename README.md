@@ -136,7 +136,7 @@ A 16-week intensive development Bootcamp, focusing on:
 
 
 **Quick-coins Bitcoin Brokerage** (2012 to 2016)    
-*Business owner, CEO, CTO, Salesman, Broker*  
+*Business owner, CEO, CTO, Salesman, Broker, Developer*  
  - Started the business aged 16, generated a £1.5 million turnover.
  - Formed close professional working relationships with clients, colleagues, and other businesses.
  - Logistics and financial risk management.
