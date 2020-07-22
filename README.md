@@ -52,7 +52,7 @@ Running the company, there was no one to tell me what to do, so I had to be self
 
 ### Public speaking
 
-I have trained in Public Speaking at [Toastmasters](https://www.toastmasters.org), won 3 public speaking competitions at my local club, spoken at over 10 London venues, got 2nd place in a Poetry Slam, have been paid to speak as a Spoken Word Artist, spoken on the radio and a podcast and made two [Motivational speeches](https://www.youtube.com/watch?v=I2q87Ecq90I) at my local college.
+I have trained in Public Speaking at [Toastmasters](https://www.toastmasters.org), won 3 public speaking competitions at my local club, spoken at over 10 London venues, got 2nd place in a Poetry Slam, have been paid to speak as a Spoken Word Artist, spoken on the radio and a podcast and made two [Motivational speeche](https://www.youtube.com/watch?v=I2q87Ecq90I)s at my local college.
 
 ### Fast learning and Problem Solving
 
