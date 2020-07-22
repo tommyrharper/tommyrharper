@@ -21,9 +21,9 @@
 
 <div>
 
-I am an energetic and driven Full Stack Junior Developer. Having created my own Bitcoin Brokerage with a £1.5 million turnover, won the Top Academic Award at my college, the Silver Award in the UK Senior Mathematical Challenge, been Published as a poet, performed Spoken Word at a professional level, travelled Europe, Canada, the Middle-East, Africa and India and been fully ordained as a Buddhist monk, I wanted a new challenge.
+I am an energetic and driven Full Stack Junior Developer. Having created my own [Bitcoin Brokerage](https://localbitcoins.com/accounts/profile/Quick-coins/) with a £1.5 million turnover, won the Top Academic Award at my college, the Silver Award in the UK Senior Mathematical Challenge, been [Published](https://www.blurb.co.uk/b/9812991-poems-of-hope) as a [poet](https://www.facebook.com/PoemsofHope2019/), performed [Spoken Word](http://www.thesilenceproject.co.uk/Launch2019P2.html) at a professional level, travelled Europe, Canada, the Middle-East, Africa and India and been [fully ordained](https://scontent.flhr3-2.fna.fbcdn.net/v/t1.0-9/79035892_10206094270033008_3079126741004845056_o.jpg?_nc_cat=102&_nc_sid=825194&_nc_ohc=2_9V1FkYNR0AX8EWFOO&_nc_ht=scontent.flhr3-2.fna&oh=605aa9d6d8465d53d387e5c47e99bfd8&oe=5F3F8A38) as a [Buddhist monk](https://medium.com/@tommyrharper_74534/how-meditating-for-1500-days-changed-me-da3a09184e0f), I wanted a new challenge.
 
-I was preparing for a course on VR at the University of Arts in London when I decided to sharpen up my tech skills and fell in love with programming. I realized this was my passion and undertook a 16-week intensive software development Bootcamp at [Makers Academy](https://makers.tech/). I am now looking for a position where I can deepen my programming experience and make a meaningful contribution.
+I was preparing for a course on [VR at the University of Arts](https://www.arts.ac.uk/subjects/animation-interactive-film-and-sound/undergraduate/ba-hons-virtual-reality-lcc) in London when I decided to sharpen up my tech skills and fell in love with programming. I realized this was my passion and undertook a 16-week intensive software development Bootcamp at [Makers Academy](https://makers.tech/). I am now looking for a position where I can deepen my programming experience and make a meaningful contribution.
 
 **Tech Skills**: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, PostgreSQL, MongoDB, React, Python.
 
@@ -48,11 +48,11 @@ I was preparing for a course on VR at the University of Arts in London when I de
 ### Leadership
 
 When I started my company, I had to bring older, more experienced and knowledgeable people on board to invest money, time and energy into the business. This required vision, initiative and confidence. 
-Running the company, there was no one to tell me what to do, so I had to be self-directed and self-organized. I wanted to further develop these skills, so I have since undertaken further training in Leadership skills at Toastmasters.
+Running the company, there was no one to tell me what to do, so I had to be self-directed and self-organized. I wanted to further develop these skills, so I have since undertaken further training in Leadership skills at [Toastmasters](https://www.toastmasters.org).
 
 ### Public speaking
 
-I have trained in Public Speaking at Toastmasters, won 3 public speaking competitions at my local club, spoken at over 10 London venues, got 2nd place in a Poetry Slam, have been paid to speak as a Spoken Word Artist, spoken on the radio and a podcast and made two Motivational speeches at my local college.
+I have trained in Public Speaking at [Toastmasters](https://www.toastmasters.org), won 3 public speaking competitions at my local club, spoken at over 10 London venues, got 2nd place in a Poetry Slam, have been paid to speak as a Spoken Word Artist, spoken on the radio and a podcast and made two [Motivational speeches](https://www.youtube.com/watch?v=I2q87Ecq90I) at my local college.
 
 ### Fast learning and Problem Solving
 
